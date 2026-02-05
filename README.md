@@ -21,14 +21,13 @@ A classic **Tetris** game built using **C++** and the **Raylib** graphics librar
 
 ## 🎮 Controls
 - Arrow Keys → Move / Rotate  
-- Space → Hard drop  
 - Esc → Exit  
 
 ---
 
 ## 📸 Screenshots
 
-![Gameplay](screenshots/gameplay.png)
-![Game Over](screenshots/game_over.png)
+![Gameplay](image.png)
+![Game Over](image1.png)
 
 
